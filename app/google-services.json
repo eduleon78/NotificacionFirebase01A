@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67971435067",
+    "firebase_url": "https://notificacionfirebase-1341e.firebaseio.com",
+    "project_id": "notificacionfirebase-1341e",
+    "storage_bucket": "notificacionfirebase-1341e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67971435067:android:37e436bbfa7453bcec2a1e",
+        "android_client_info": {
+          "package_name": "com.leonestudios.notificacionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67971435067-rffb3ljehql4896a67httoiuh1ocdpd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKi1seeneqdGG1wvWOyfgVC1mChQdyJJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67971435067-rffb3ljehql4896a67httoiuh1ocdpd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67971435067-hccji7a3lrm7pi6t8uigjgck6nci5b9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leonestudios.notificacionfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
